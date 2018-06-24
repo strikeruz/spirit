@@ -1,0 +1,44 @@
+@media screen and (max-width: 991px){
+
+}
+@media screen and (max-width: 767px){
+	.responsive_menu{
+		display: block;
+		
+	}
+
+	.computer img{
+		display: block;
+		margin: 0 auto;
+	}
+
+	.title_about_us{
+		padding-top: 3.33vw;
+		text-align: center;
+	}
+
+
+	.title_about_us .down_line{
+		display: block;
+		margin: 0 auto;
+		margin-top: 1.33vmax;
+
+	}
+
+
+	.skills{
+		padding: 1vw 0;
+	}
+
+    .btn_browse{
+    	width: 17.93vmax;
+    height: 6.13vmax;
+        font-size: 1.5vmax;
+    }
+
+    .title_about_us h4{
+    	font-size: 2.33vmax;
+    }
+
+	
+}
